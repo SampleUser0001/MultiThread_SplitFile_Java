@@ -1,0 +1,9 @@
+.python-version
+
+target/
+*.jar
+*.class
+.classpath
+.project
+.settings/
+*.log
